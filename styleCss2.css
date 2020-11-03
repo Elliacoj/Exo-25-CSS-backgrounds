@@ -6,52 +6,95 @@ div {
 
 #image {
     background-image: url('chat.jpg');
-    background-size: cover;
-    width: 100px;
-    height: 100px;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-color: #a7a57e;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image2 {
     background-image: url('chat2.jpg');
     background-size: cover;
+    background-position: center;
+    border-color: #6548a9;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image3 {
     background-image: url('chat3.jpg');
-    background-size: cover;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-color: #41294c;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image4 {
     background-image: url('chat4.jpg');
     background-size: cover;
+    background-position: center;
+    border-color: coral;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image5 {
     background-image: url('chat5.jpg');
-    background-size: cover;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-color: #2b100c;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image6 {
     background-image: url('chat6.jpg');
-    background-size: cover;;
+    background-size: cover;
+    background-position: center;
+    border-color: #3f8030;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image7 {
     background-image: url('chat7.jpg');
-    background-size: cover;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-color: #ffcd50;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image8 {
     background-image: url('chat8.jpg');
     background-size: cover;
+    background-position: center;
+    border-color: #cb50ff;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image9 {
     background-image: url('chat9.jpg');
-    background-size: cover;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-color: #50f0ff;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
 
 #image10 {
     background-image: url('chat10.jpeg');
     background-size: cover;
+    background-position: center;
+    border-color: #5b3324;
+    border-radius: 15px;
+    box-shadow: 30px 30px 30px 30px lightgrey inset;
 }
